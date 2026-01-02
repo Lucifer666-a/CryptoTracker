@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892972501514",
+    "project_id": "nandosokcerdas",
+    "storage_bucket": "nandosokcerdas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892972501514:android:f0b0c711299f3b091dedf3",
+        "android_client_info": {
+          "package_name": "com.example.nandosokcerdas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892972501514-np63envoaoerhsmaqji28cf9rs64fa2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nandosokcerdas",
+            "certificate_hash": "9b02ab61bbc15b5440ebddd69388c7dfbce22f83"
+          }
+        },
+        {
+          "client_id": "892972501514-osgoutgn88jt5spa9d07mhhet9mipk90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD4skHoOzYWLsqmK9D0bYYY2BP1j9KHvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892972501514-osgoutgn88jt5spa9d07mhhet9mipk90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
